@@ -8,3 +8,7 @@ Add coba.html
 ```
 rm -rf
 ```
+
+```
+npm install regenerator-runtime
+```
